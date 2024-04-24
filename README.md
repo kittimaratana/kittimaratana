@@ -14,4 +14,4 @@ Post-graduation, my role evolved from a data analyst to a data scientist at the 
 
 I was offered a fully funded bootcamp through Brainstation 👩‍💻, and I decided to partake in the software engineering stream. As I graduate, I am excited to see what software engineering opportunities come my way.
 
-In my spare time, I love to travel, work out, and sing. I'm also passionate about women's community building 👭. I've participated in Women in STEM conferences, raised money for literacy, and am currently a member at Monday Girl, which is an organization that empowers women through fostering lasting and supportive community.
+In my spare time, I love to travel, workout, and sing. I'm also passionate about women's community building 👭. I've participated in Women in STEM conferences, raised money for literacy, and am currently a member at Monday Girl, which is an organization that empowers women through fostering lasting and supportive community.
