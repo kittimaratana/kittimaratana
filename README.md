@@ -10,7 +10,7 @@ Transitioning from data science to software engineering is my latest adventure. 
 
 Throughout my career, I've had some cool and unique opportunities. My internship experiences include researching abroad in Denmark 🇩🇰, working as a full-stack developer intern, and working cross-functionally to revamp how weather alerts are deployed to Canadians by designing the system architecture.
 
-Post-graduation, my role evolved from a data analyst to a data scientist at the same rate that my love for programming increased. I was part of the pioneering team at Universal Music Canada 🎧, advancing music and tech by building products in the analytics and machine learning space.
+Post-graduation, my role evolved from a junior data analyst to a data scientist at the same rate that my love for programming increased. I was part of the pioneering team at Universal Music Canada 🎧, advancing music and tech by building products in the analytics and machine learning space.
 
 I was offered a fully funded bootcamp through Brainstation 👩‍💻, and I decided to partake in the software engineering stream. As I graduate, I am excited to see what software engineering opportunities come my way.
 
